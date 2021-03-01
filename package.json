@@ -1,0 +1,26 @@
+{
+  "name": "homework-module0-11-js",
+  "version": "1.0.0",
+  "description": "omework-module0-11-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azamat-mukhamediya/module11_homework.git"
+  },
+  "author": "aneelia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azamat-mukhamediya/module11_homework/issues"
+  },
+  "homepage": "https://github.com/azamat-mukhamediya/module11_homework#readme",
+  "devDependencies": {
+    "@babel/core": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "babel-jest": "^26.1.0",
+    "cypress": "^4.10.0",
+    "jest": "^26.1.0"
+  }
+}
